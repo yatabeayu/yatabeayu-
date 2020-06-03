@@ -1,7 +1,7 @@
 # yatabeayu-
 <html lang="ja">
   <head>
-    <title>私の名前はあゆです</title>
+   　 <title>私の名前はあゆです。</title>
   </head>
       <body>あゆの漢字は鮎です。
         <h1>京都に住んでいます。</h1>
