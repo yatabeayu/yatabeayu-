@@ -1,5 +1,4 @@
 # yatabeayu-
-Kadai 2
 <html lang="ja">
   <head>
     <title>私の名前はあゆです。</title>
