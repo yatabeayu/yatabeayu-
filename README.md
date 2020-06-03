@@ -1,7 +1,7 @@
 # yatabeayu-
 Kadai 2
 <html lang="ja">
-  <head>自己紹介
+  <head>
     <title>私の名前はあゆです。</title>
   </head>
       <body>あゆの漢字は鮎です。
