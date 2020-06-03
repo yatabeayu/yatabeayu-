@@ -1,6 +1,6 @@
 # yatabeayu-
 Kadai 2
-<html>
+<html lang="ja">
   <head>自己紹介
     <title>私の名前はあゆです。
       <body>あゆの漢字は鮎です。
@@ -8,5 +8,5 @@ Kadai 2
         <h2>抹茶が好きです。</h2>
         <h3>韓国料理も韓国も好きです。<h/3>
           <!-- コメント-->よろしくお願いします。
-          
-          
+      </body>
+</html>
